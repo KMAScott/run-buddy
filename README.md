@@ -12,3 +12,5 @@ https://kmascott.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Scott Ashley
+
+### ©️2019 Run Buddy, Inc
