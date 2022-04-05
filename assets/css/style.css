@@ -17,6 +17,7 @@ header {
     justify-content: space-between;
     flex-wrap: wrap;
     position: sticky;
+    position: -webkit-sticky;
     top: 0;
     background-image: url("../images/hero-bg.jpg");
     background-size: cover;
